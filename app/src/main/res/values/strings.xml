@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">lsoapp</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+
+    <!-- NAVIGATION BAR -->
+    <string name="title_home">strona główna</string>
+    <string name="title_info">informacje</string>
+    <string name="title_settings">ustawienia</string>
 </resources>
